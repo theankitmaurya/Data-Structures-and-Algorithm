@@ -8,7 +8,7 @@ public class Factorial_Of_A_Number {
             return 1;
         }
 
-        return Factorial(n)*Factorial(n-1);
+        return Factorial(n) * Factorial(n-1);
     }
 
     public static void main(String[] args) {
